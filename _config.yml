@@ -1,0 +1,8 @@
+title: CTF Writeups
+author: ningko
+description: Repository for CTF Writeups
+
+remote_theme: riggraz/no-style-please
+
+plugins:
+  - jekyll-remote-theme
