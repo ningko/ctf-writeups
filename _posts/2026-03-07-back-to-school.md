@@ -48,7 +48,8 @@ So the challenge here would be to write a script that can receive the numbers (w
 
 Such script would look something like this:
 
-```script.py
+<!-- this theme is kind of an eyesore no offense, not changing it tho -->
+```console
 import socket
 
 HOST = "challenge01.root-me.org"
