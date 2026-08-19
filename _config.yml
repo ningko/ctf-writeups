@@ -6,3 +6,6 @@ remote_theme: riggraz/no-style-please
 
 plugins:
   - jekyll-remote-theme
+
+theme_config:
+  date_format: "%Y-%m-%d"
