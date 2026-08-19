@@ -10,7 +10,7 @@ layout: home
 
 This is where I post my CTF writeups.
 
-Writeups are divided by challenge type (network, cryptography, programming, etc) and not by website, though I will be including it in each post, and I will make my best not to include flags, credentials or any other "sensitive" information.
+Writeups are divided by challenge type (network, cryptography, programming, etc) and not by website, though I will be including it in each post, and I will do my best not to include flags, credentials or any other "sensitive" information.
 
 ## Filter by category
 
