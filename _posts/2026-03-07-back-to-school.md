@@ -49,6 +49,7 @@ So the challenge here would be to write a script that can receive the numbers (w
 Such script would look something like this:
 
 <!-- this theme is kind of an eyesore no offense, not changing it tho -->
+
 ```console
 import socket
 
