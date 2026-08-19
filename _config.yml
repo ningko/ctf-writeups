@@ -4,8 +4,11 @@ description: Repository for CTF Writeups
 
 remote_theme: riggraz/no-style-please
 
-plugins:
-  - jekyll-remote-theme
-
 theme_config:
   date_format: "%Y-%m-%d"
+  appearance: "auto"
+  back_home_text: "back"
+  lowercase_titles: true
+
+plugins:
+  - jekyll-remote-theme
